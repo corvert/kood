@@ -23,6 +23,7 @@ A command line tool which can prettify flight itineraries.
 
 ### Java-Script
 - [Sprint](https://github.com/corvert/js-sprint)
+JavaScript Fundamentals
 
 ### Full-Stack Teamwork projects 
 - [Beachside Racetrack Real-Time System](https://github.com/corvert/info-screens)
