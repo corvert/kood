@@ -5,10 +5,10 @@
 - [Sprint](https://github.com/corvert/sprintGo)
 Go Fundamentals
 
-- [Cypher](https://github.com/corvert/cypher)
+- [Cypher](https://github.com/corvert/cypher) Teamwork - 
 The Cypher Tool is a command-line application crafted for encrypting and decrypting messages using different ciphers. It enables users to encode plain text for confidentiality or decode ciphered text to restore the original content.
 
-- [Notes tool](https://github.com/corvert/notes)
+- [Notes tool](https://github.com/corvert/notes) Teamwork - 
 This is a simple command-line notes tool written in Go. It allows users to manage notes by showing existing notes, adding new notes, and deleting existing notes.
 
 ### Java
