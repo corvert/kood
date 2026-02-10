@@ -54,7 +54,7 @@ Build a monitoring and logging solution on a VM. You'll set up Prometheus, Grafa
 - [Cluster Chronicles](https://github.com/corvert/cluster-chronicles)
 Migrate your entire application, CI/CD pipeline, and observability stack from VMs to a local Kubernetes cluster using Minikube. This project involves creating Kubernetes manifests, configuring persistent storage, and managing the application within an orchestrated environment.
 
--[GitOps Galaxy](https://github.com/corvert/gitops-galaxy)
+- [GitOps Galaxy](https://github.com/corvert/gitops-galaxy)
 Streamline your Kubernetes deployments by packaging your application with Helm and managing its lifecycle with ArgoCD. You'll implement a full GitOps workflow, including automated image updates and RBAC configuration.
 
 Coming soon
