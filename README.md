@@ -59,7 +59,7 @@ Streamline your Kubernetes deployments by packaging your application with Helm a
 
 Coming soon
 
-- Cloud Cartographer - Plan a cloud migration by conducting a pre-migration analysis, baseline your application's performance, map its dependencies, and create a cost-comparison report for two major cloud providers.
+- [Cloud Cartographer](https://github.com/corvert/cloud-cartographer) - Plan a cloud migration by conducting a pre-migration analysis, baseline your application's performance, map its dependencies, and create a cost-comparison report for two major cloud providers.
 
 - Voyager - Execute a full cloud migration to the provider of your choice. Using Terraform, you will build a cloud infrastructure, deploy the application using your GitOps pipeline, and implement a full monitoring stack, completing your journey from a local VM to a fully operational cloud-native system.
 
