@@ -57,9 +57,9 @@ Migrate your entire application, CI/CD pipeline, and observability stack from VM
 - [GitOps Galaxy](https://github.com/corvert/gitops-galaxy)
 Streamline your Kubernetes deployments by packaging your application with Helm and managing its lifecycle with ArgoCD. You'll implement a full GitOps workflow, including automated image updates and RBAC configuration.
 
-Coming soon
-
 - [Cloud Cartographer](https://github.com/corvert/cloud-cartographer) - Plan a cloud migration by conducting a pre-migration analysis, baseline your application's performance, map its dependencies, and create a cost-comparison report for two major cloud providers.
+
+Coming soon
 
 - Voyager - Execute a full cloud migration to the provider of your choice. Using Terraform, you will build a cloud infrastructure, deploy the application using your GitOps pipeline, and implement a full monitoring stack, completing your journey from a local VM to a fully operational cloud-native system.
 
